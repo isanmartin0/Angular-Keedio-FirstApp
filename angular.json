@@ -61,7 +61,6 @@
               "extractLicenses": true,
               "vendorChunk": false,
               "buildOptimizer": true
-              }
             },
             "uat": {
               "fileReplacements": [
